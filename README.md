@@ -19,3 +19,5 @@ SVD has it's use varying across a wide variety of domains. Here, we are using it
 The method of image compression with singular value decomposition is based on the idea that if the SVD is known, some of the singular values σ are significant while the others are small and not significant. Thus, if the significant values are kept and the small values are discarded then only the columns of U and V corresponding to the singular values are used.
 
 As we increase the rank, the quality of the image increases.
+
+This project is a mathematical analysis of SVD applied on an image given by the user.

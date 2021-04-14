@@ -28,6 +28,14 @@ This project is a mathematical analysis of SVD applied on an image given by the 
 - Image Processing
     - Image Compression
 
+## Original Image
+<p align="left">
+     <img src = "/media/dog_grayscale.png">
+ 
+## Image after applying SVD
+<p align="left">
+    <img src = "/media/image_after_svd.png">
+
 ## To use this repo please follow the steps mentioned below
 
 - Setting up the Python Environment with dependencies:

@@ -12,6 +12,5 @@ plot(img_grayscale)
 imgmat = np.array( list(img_grayscale.getdata(band = 0)), float)
 imgmat.shape = (img_grayscale.size[1], img_grayscale.size[0])
 imgmat = np.matrix(imgmat)
-A = imgmat
-comp_image = svd(A,50)
+comp_image = svd(imgmat,50)
 plot_svd(comp_image)

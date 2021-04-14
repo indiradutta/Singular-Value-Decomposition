@@ -21,3 +21,19 @@ The method of image compression with singular value decomposition is based on th
 As we increase the rank, the quality of the image increases.
 
 This project is a mathematical analysis of SVD applied on an image given by the user.
+
+## To use this repo please follow the steps mentioned below
+
+- Setting up the Python Environment with dependencies:
+
+        pip install -r requirements.txt
+
+- Cloning the Repository: 
+
+        git clone https://github.com/indiradutta/Singular-Value-Decomposition/
+- Entering the directory: 
+
+        cd Singular-Value-Decomposition
+- Running the file:
+
+        python3 test.py

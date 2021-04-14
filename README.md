@@ -22,6 +22,12 @@ As we increase the rank, the quality of the image increases.
 
 This project is a mathematical analysis of SVD applied on an image given by the user.
 
+## Applications
+- Matrix Approximation
+
+- Image Processing
+    - Image Compression
+
 ## To use this repo please follow the steps mentioned below
 
 - Setting up the Python Environment with dependencies:

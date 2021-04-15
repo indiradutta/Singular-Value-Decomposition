@@ -51,3 +51,5 @@ This project is a mathematical analysis of SVD applied on an image given by the 
 - Running the file:
 
         python3 test.py
+        
+Contributed by: <a href="https://github.com/indiradutta">Indira Dutta</a>
